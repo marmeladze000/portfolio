@@ -5,3 +5,10 @@ body {
 li {
     font-weight: 200;
 }
+
+header a {
+    text-decoration: none;
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: white;
+}
