@@ -14,4 +14,9 @@ header a {
     background-color: white;
     color: black;
     padding: 5px 15px 5px 15px;
+    font-size: 15px;
+}
+
+header a::hover {
+    font-size: 25px;
 }
